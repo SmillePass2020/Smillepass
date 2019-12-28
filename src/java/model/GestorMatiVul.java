@@ -11,4 +11,11 @@ package model;
  */
 public class GestorMatiVul {
     String hola;
+    int vevo;
+    
+    public void asdf()
+            {
+            
+            
+            }
 }
